@@ -1,0 +1,29 @@
+# Task 7: Identify and Remove Suspicious Browser Extensions (Microsoft Edge)
+
+## 🔍 Reviewed Browser:
+Microsoft Edge
+
+## 🧩 Extensions Before Cleanup:
+1. FoxyProxy – Proxy tool for advanced users
+2. Gate Calculator – Virtual calculator for GATE exam
+3. Google Docs Offline – Trusted official Google extension
+
+## ❌ Removed Extension:
+- Gate Calculator – Not actively used, unknown publisher, unnecessary
+
+## ⚠️ Evaluated Extension:
+- FoxyProxy – Kept after verifying its source; useful for network switching but should be used with caution
+
+## ✅ Kept Extension:
+- Google Docs Offline – Official and safe, pre-installed
+
+## 📸 Screenshots:
+- `Screenshot (285).png` – Shows installed extensions before/after cleanup
+
+## 📖 Learnings:
+- Many extensions ask for full access to websites which can be misused
+- Only install from trusted sources (Edge Add-ons Store or Chrome Web Store)
+- Regular review of extensions improves browser security
+
+## 🧠 Outcome:
+Removed 1 suspicious extension and reviewed others. Gained awareness of browser extension safety and potential privacy risks.
